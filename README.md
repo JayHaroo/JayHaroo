@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JayHaroo
 - 👀 I’m interested in Graphic Design and Programming
-- 🌱 I’m currently learning and Studying in College!
+- 🌱 I’m currently Learning and Studying in College!
 - 💞️ I’m looking to collaborate on schoolworks with my classmates.
 - 📫 How to reach me contact me via my social media!
 
