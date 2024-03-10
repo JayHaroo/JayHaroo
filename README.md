@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Jey</h1>
+<h1 align="center">LEVANTENSE!!!!!!!!!!</h1>
 <h3 align="center">I LIKE HOTDOS</h3>
 
 - 🔭 I’m currently working on **SCHOOL WORKS!**
 
-- 🌱 I’m currently learning **More react, Python, Java, C++**
+- 🌱 I’m currently learning **More React, More Python, Java, C++**
 
 - ⚡ Fun fact **I Like Hotdog**
 
